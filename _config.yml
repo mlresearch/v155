@@ -1,0 +1,83 @@
+---
+booktitle: Proceedings of the 2020 Conference on Robot Learning
+shortname: CoRL
+volume: '155'
+year: '2020'
+start: 2020-11-16
+end: 2020-11-18
+published: 2021-10-04
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ICE-2013
+month: 0
+cycles: false
+bibtex_editor: Kober, Jens and Ramos, Fabio and Tomlin, Claire
+editor:
+- given: Jens
+  family: Kober
+- given: Fabio
+  family: Ramos
+- given: Claire
+  family: Tomlin
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 2020 Conference on Robot Learning
+    Held in virtual on 16-18 November 2020
+
+  Published as Volume 155 by the Proceedings of Machine Learning Research on 04 October 2021.
+
+  Volume Edited by:
+    Jens Kober
+    Fabio Ramos
+    Claire Tomlin
+
+  Series Editors:
+    Neil D. Lawrence
+    * Mark Reid
+date_str: 16--18 Nov
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v155"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v155
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v155
+email: ''
+conference:
+  name: Conference on Robot Learning
+  url: https://sites.google.com/robot-learning.org/corl2020
+  location: virtual
+  dates:
+  - 2020-11-16
+  - 2020-11-17
+  - 2020-11-18
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v155/corl2020.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v155/corl2020.bib
